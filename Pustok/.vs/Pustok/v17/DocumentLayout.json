@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elchin\\Desktop\\CodeLesson\\73. 30-04-2024\\Pustok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\elchin\\desktop\\codelesson\\73. 30-04-2024\\pustok\\pustok\\areas\\manage\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\areas\\manage\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\elchin\\desktop\\codelesson\\73. 30-04-2024\\pustok\\pustok\\areas\\manage\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\areas\\manage\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\elchin\\desktop\\codelesson\\73. 30-04-2024\\pustok\\pustok\\areas\\manage\\views\\error\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\areas\\manage\\views\\error\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\elchin\\desktop\\codelesson\\73. 30-04-2024\\pustok\\pustok\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\elchin\\desktop\\codelesson\\73. 30-04-2024\\pustok\\pustok\\areas\\manage\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\areas\\manage\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\elchin\\desktop\\codelesson\\73. 30-04-2024\\pustok\\pustok\\areas\\manage\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\areas\\manage\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotFound.cshtml",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\73. 30-04-2024\\Pustok\\Pustok\\Areas\\Manage\\Views\\Error\\NotFound.cshtml",
+              "RelativeDocumentMoniker": "Pustok\\Areas\\Manage\\Views\\Error\\NotFound.cshtml",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\73. 30-04-2024\\Pustok\\Pustok\\Areas\\Manage\\Views\\Error\\NotFound.cshtml",
+              "RelativeToolTip": "Pustok\\Areas\\Manage\\Views\\Error\\NotFound.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T17:30:15.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\73. 30-04-2024\\Pustok\\Pustok\\Areas\\Manage\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "Pustok\\Areas\\Manage\\Controllers\\ErrorController.cs",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\73. 30-04-2024\\Pustok\\Pustok\\Areas\\Manage\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "Pustok\\Areas\\Manage\\Controllers\\ErrorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:29:25.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\73. 30-04-2024\\Pustok\\Pustok\\Areas\\Manage\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pustok\\Areas\\Manage\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\73. 30-04-2024\\Pustok\\Pustok\\Areas\\Manage\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "Pustok\\Areas\\Manage\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T17:15:44.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\73. 30-04-2024\\Pustok\\Pustok\\Areas\\Manage\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Pustok\\Areas\\Manage\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\73. 30-04-2024\\Pustok\\Pustok\\Areas\\Manage\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Pustok\\Areas\\Manage\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAiwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:14:50.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\73. 30-04-2024\\Pustok\\Pustok\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Pustok\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\73. 30-04-2024\\Pustok\\Pustok\\Models\\Book.cs",
+              "RelativeToolTip": "Pustok\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:11:26.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\73. 30-04-2024\\Pustok\\Pustok\\Areas\\Manage\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pustok\\Areas\\Manage\\Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\73. 30-04-2024\\Pustok\\Pustok\\Areas\\Manage\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "Pustok\\Areas\\Manage\\Views\\Book\\Create.cshtml",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAwGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T16:49:40.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
